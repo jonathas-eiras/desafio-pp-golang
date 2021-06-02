@@ -1,6 +1,6 @@
 ## Desafio-picpay
 
-## Projeto desenvolvido como parte do processo de seleção para vaga de Quality Enginner.
+## Projeto desenvolvido como parte do processo de seleção para vaga de Quality Engineer.
 
 ## Projeto
 
