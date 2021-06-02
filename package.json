@@ -1,0 +1,27 @@
+{
+  "name": "pp-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.4.0",
+    "faker": "^5.5.3",
+    "randomstring": "^1.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathas-eiras/desafio-PicPay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonathas-eiras/desafio-PicPay/issues"
+  },
+  "homepage": "https://github.com/jonathas-eiras/desafio-PicPay#readme"
+}
