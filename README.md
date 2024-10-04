@@ -1,4 +1,4 @@
-## Desafio-picpay
+## Desafio-PP
 
 ## Projeto desenvolvido como parte do processo de seleção para vaga de Quality Engineer.
 
